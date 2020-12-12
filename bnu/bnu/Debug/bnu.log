@@ -1,0 +1,15 @@
+﻿  bnu.cpp
+C:\Users\Berk\source\repos\bnu\bnu\bnu.cpp(143,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Berk\source\repos\bnu\bnu\bnu.cpp(168,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Berk\source\repos\bnu\bnu\bnu.cpp(180,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Berk\source\repos\bnu\bnu\bnu.cpp(222,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Berk\source\repos\bnu\bnu\bnu.cpp(280,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Berk\source\repos\bnu\bnu\bnu.cpp(293,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Berk\source\repos\bnu\bnu\bnu.cpp(295,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Berk\source\repos\bnu\bnu\bnu.cpp(313,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Berk\source\repos\bnu\bnu\bnu.cpp(315,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Berk\source\repos\bnu\bnu\bnu.cpp(337,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Berk\source\repos\bnu\bnu\bnu.cpp(353,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Berk\source\repos\bnu\bnu\bnu.cpp(368,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Berk\source\repos\bnu\bnu\bnu.cpp(454,23): warning C4018: '<': signed/unsigned mismatch
+  bnu.vcxproj -> C:\Users\Berk\source\repos\bnu\Debug\bnu.exe
